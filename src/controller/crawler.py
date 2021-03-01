@@ -1,6 +1,6 @@
 from src.controller.file_manager import FileManager
-from src.model.crawler_page import CrawlerPage
-from src.model.singleton import Singleton
+from src.controller.crawler_page import CrawlerPage
+from src.controller.singleton import Singleton
 from src.model.transaction.bank_transactions import BankTransactions
 
 

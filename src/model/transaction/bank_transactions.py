@@ -1,5 +1,5 @@
 from typing import List
-from src.model.singleton import Singleton
+from src.controller.singleton import Singleton
 from src.model.transaction.transaction import Transaction
 
 
