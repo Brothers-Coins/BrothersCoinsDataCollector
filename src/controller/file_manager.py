@@ -19,9 +19,13 @@ class FileManager:
     @staticmethod
     def get_transactions():
         with open(FileManager.__transactions_path, encoding='utf8') as arq:
-            return json.load(arq)
+            return json.load(arq)["transactions"]
 
     @staticmethod
     def save_transactions(transactions: List["Transaction"]):
-        with open(FileManager.__transactions_path, encoding='utf8') as arq:
-            json.dump(transactions, arq)
+        with open(FileManager.__transactions_path, 'w', encoding='utf8') as arq:
+            json.dump({"transactions": list(map(FileManager.serialize, transactions))}, arq)
+
+    @staticmethod
+    def serialize(transaction: "Transaction") -> dict:
+        return transaction.broken()

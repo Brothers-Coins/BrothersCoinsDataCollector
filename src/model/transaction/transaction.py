@@ -1,6 +1,6 @@
 from abc import ABCMeta
 
-from src.model.date import Date
+from src.model.date.date import Date
 from src.model.transaction.type_transaction import TypeTransaction
 
 
@@ -13,8 +13,7 @@ class Transaction:
         self.__player_name = player_name
         self.__date = date
 
-    @property
-    def transaction_object(self) -> dict:
+    def broken(self) -> dict:
         return {
             'id': self.__id,
             'value': self.__value,
@@ -50,3 +49,9 @@ class Transaction:
 
     def __lt__(self, other):
         return self.abs_value < other.abs_value
+
+    def __str__(self):
+        return f'{self.__id} | {self.__player_name} | {self.value}'
+
+    def __repr__(self):
+        return self.__str__()

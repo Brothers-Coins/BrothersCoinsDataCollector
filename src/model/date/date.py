@@ -2,8 +2,15 @@ from datetime import datetime
 
 
 class Date:
-    def __init__(self, date: datetime):
-        self.__date_time = date
+    def __init__(self, date: datetime = None, date_dict: dict = None):
+        self.__date_time = date if date is not None else datetime(
+            year=date_dict['year'],
+            month=date_dict['month'],
+            day=date_dict['day'],
+            hour=date_dict['hour'],
+            minute=date_dict['minute'],
+            second=date_dict['second']
+        )
 
     @property
     def year(self):
@@ -50,3 +57,4 @@ class Date:
 
     def __sub__(self, other):
         self.__date_time -= other.__date_time
+
