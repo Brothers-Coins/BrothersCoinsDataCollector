@@ -14,11 +14,15 @@ class CrawlerManager:
 
     def __init__(self, file_transactions: BankTransactions):
         self.__bank_transactions = file_transactions
-        self.__last_id = file_transactions.transactions[-1].id
+        self.__last_transaction_id = file_transactions.transactions[0].id
 
     @property
     def bank_transactions(self):
         return self.__bank_transactions
+
+    @property
+    def last_id(self):
+        return self.__last_transaction_id
 
     def collect(self):
         page_counter = 1
@@ -26,6 +30,7 @@ class CrawlerManager:
             try:
                 end_crawler = self.__make_crawler_page(page_counter)
             except ValueError:  # Error to read page
+                print(f'Error to read page, wait {CrawlerManager.__wait_time} seconds...')
                 sleep(CrawlerManager.__wait_time)  # Wait for a new requisition
             else:
                 if end_crawler:
@@ -40,7 +45,7 @@ class CrawlerManager:
             raise ValueError("A page's transaction list can never be empty")
         print(transactions_page)
         for transaction in transactions_page:
-            self.__bank_transactions.add(transaction)
-            if transaction.id == self.__last_id:
+            if transaction.id == self.__last_transaction_id:
                 return True
+            self.__bank_transactions.add(transaction)
         return False

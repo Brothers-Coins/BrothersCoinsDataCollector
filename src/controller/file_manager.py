@@ -7,7 +7,7 @@ from src.model.transaction.transaction import Transaction
 
 class FileManager:
     __metaclass__ = ABC
-    __transactions_path = '../data/transactions.json'
+    __transactions_path = '../data/transactions_b.json'
 
     @staticmethod
     def get_cookies():

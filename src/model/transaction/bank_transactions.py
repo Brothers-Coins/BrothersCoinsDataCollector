@@ -15,3 +15,8 @@ class BankTransactions:
     @property
     def transactions(self) -> List["Transaction"]:
         return self.__transactions
+
+    def make_last_operation(self, last_id):
+        print('Making last operation...')
+        for i in range(last_id):
+            self.__transactions.append(self.__transactions.pop(0))

@@ -22,6 +22,7 @@ class Manager:
 
     def get_transactions(self):
         self.__crawler_manager.collect()
+        self.__crawler_manager.bank_transactions.make_last_operation(self.__crawler_manager.last_id)
         transactions = self.__crawler_manager.bank_transactions.transactions
         FileManager.save_transactions(transactions)
         return transactions
