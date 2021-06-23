@@ -1,6 +1,5557 @@
 {
   "transactions": [
     {
+      "id": 1156,
+      "value": 4000,
+      "player": "Mass Mag",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 22,
+        "hour": 1,
+        "minute": 35,
+        "second": 25
+      }
+    },
+    {
+      "id": 1155,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 21,
+        "hour": 21,
+        "minute": 20,
+        "second": 34
+      }
+    },
+    {
+      "id": 1154,
+      "value": 50,
+      "player": "Drop Style",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 21,
+        "hour": 20,
+        "minute": 2,
+        "second": 19
+      }
+    },
+    {
+      "id": 1153,
+      "value": -1875,
+      "player": "Hitmex",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 21,
+        "hour": 15,
+        "minute": 48,
+        "second": 9
+      }
+    },
+    {
+      "id": 1152,
+      "value": -50,
+      "player": "Phu Aeded",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 19,
+        "hour": 17,
+        "minute": 46,
+        "second": 28
+      }
+    },
+    {
+      "id": 1151,
+      "value": -450,
+      "player": "Sekrion",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 18,
+        "hour": 2,
+        "minute": 19,
+        "second": 27
+      }
+    },
+    {
+      "id": 1150,
+      "value": -600,
+      "player": "Eroswar",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 17,
+        "hour": 19,
+        "minute": 26,
+        "second": 33
+      }
+    },
+    {
+      "id": 1149,
+      "value": -1175,
+      "player": "Xedran Samphin",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 17,
+        "hour": 2,
+        "minute": 28,
+        "second": 39
+      }
+    },
+    {
+      "id": 1148,
+      "value": -100,
+      "player": "Carmilllia",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 16,
+        "hour": 23,
+        "minute": 32,
+        "second": 7
+      }
+    },
+    {
+      "id": 1147,
+      "value": -550,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 16,
+        "hour": 6,
+        "minute": 29,
+        "second": 48
+      }
+    },
+    {
+      "id": 1146,
+      "value": -50,
+      "player": "Rubio Hagrid",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 16,
+        "hour": 1,
+        "minute": 18,
+        "second": 45
+      }
+    },
+    {
+      "id": 1145,
+      "value": -4000,
+      "player": "Xedran Samphin",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 15,
+        "hour": 22,
+        "minute": 8,
+        "second": 15
+      }
+    },
+    {
+      "id": 1144,
+      "value": 400,
+      "player": "Magrelo Jogadorcaro",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 15,
+        "hour": 21,
+        "minute": 13,
+        "second": 43
+      }
+    },
+    {
+      "id": 1143,
+      "value": -250,
+      "player": "Carmilllia",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 15,
+        "hour": 18,
+        "minute": 58,
+        "second": 52
+      }
+    },
+    {
+      "id": 1142,
+      "value": -1000,
+      "player": "Xedran Samphin",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 15,
+        "hour": 16,
+        "minute": 48,
+        "second": 22
+      }
+    },
+    {
+      "id": 1141,
+      "value": -75,
+      "player": "Ayon Drack",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 15,
+        "hour": 1,
+        "minute": 28,
+        "second": 41
+      }
+    },
+    {
+      "id": 1140,
+      "value": 150,
+      "player": "Sebaussius Legend",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 22,
+        "minute": 54,
+        "second": 10
+      }
+    },
+    {
+      "id": 1139,
+      "value": -2400,
+      "player": "Hannibalz",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 21,
+        "minute": 51,
+        "second": 48
+      }
+    },
+    {
+      "id": 1138,
+      "value": -250,
+      "player": "Queciodsp",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 20,
+        "minute": 43,
+        "second": 5
+      }
+    },
+    {
+      "id": 1137,
+      "value": 500,
+      "player": "Peaso Inabraniano",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 20,
+        "minute": 41,
+        "second": 19
+      }
+    },
+    {
+      "id": 1136,
+      "value": -250,
+      "player": "Akee Firestarter",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 19,
+        "minute": 42,
+        "second": 21
+      }
+    },
+    {
+      "id": 1135,
+      "value": -1000,
+      "player": "Alberto Warrior",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 18,
+        "minute": 51,
+        "second": 55
+      }
+    },
+    {
+      "id": 1134,
+      "value": -300,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 17,
+        "minute": 15,
+        "second": 0
+      }
+    },
+    {
+      "id": 1133,
+      "value": 425,
+      "player": "Incrivel Abra",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 14,
+        "hour": 15,
+        "minute": 8,
+        "second": 7
+      }
+    },
+    {
+      "id": 1132,
+      "value": -500,
+      "player": "Xedran Samphin",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 13,
+        "hour": 19,
+        "minute": 58,
+        "second": 11
+      }
+    },
+    {
+      "id": 1131,
+      "value": -75,
+      "player": "Razengast",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 13,
+        "hour": 18,
+        "minute": 48,
+        "second": 17
+      }
+    },
+    {
+      "id": 1130,
+      "value": 425,
+      "player": "Coelho Ed Pro",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 12,
+        "hour": 23,
+        "minute": 53,
+        "second": 25
+      }
+    },
+    {
+      "id": 1129,
+      "value": 3100,
+      "player": "Anticap Mentality",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 12,
+        "hour": 20,
+        "minute": 57,
+        "second": 15
+      }
+    },
+    {
+      "id": 1128,
+      "value": -300,
+      "player": "Razengast",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 12,
+        "hour": 20,
+        "minute": 2,
+        "second": 34
+      }
+    },
+    {
+      "id": 1127,
+      "value": -25,
+      "player": "Dwer Zonil",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 12,
+        "hour": 14,
+        "minute": 29,
+        "second": 4
+      }
+    },
+    {
+      "id": 1126,
+      "value": -75,
+      "player": "Zimi Zahir",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 12,
+        "hour": 7,
+        "minute": 26,
+        "second": 48
+      }
+    },
+    {
+      "id": 1125,
+      "value": 500,
+      "player": "Atago Misaki",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 12,
+        "hour": 3,
+        "minute": 20,
+        "second": 9
+      }
+    },
+    {
+      "id": 1124,
+      "value": 750,
+      "player": "Pocoyo Ti",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 11,
+        "hour": 19,
+        "minute": 36,
+        "second": 54
+      }
+    },
+    {
+      "id": 1123,
+      "value": 325,
+      "player": "Ambiciouz",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 11,
+        "hour": 18,
+        "minute": 7,
+        "second": 38
+      }
+    },
+    {
+      "id": 1122,
+      "value": 1800,
+      "player": "Gudola Derwyd",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 11,
+        "hour": 17,
+        "minute": 55,
+        "second": 27
+      }
+    },
+    {
+      "id": 1121,
+      "value": -1000,
+      "player": "Hitmex",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 10,
+        "hour": 23,
+        "minute": 39,
+        "second": 48
+      }
+    },
+    {
+      "id": 1120,
+      "value": 250,
+      "player": "Minelava",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 10,
+        "hour": 23,
+        "minute": 29,
+        "second": 8
+      }
+    },
+    {
+      "id": 1119,
+      "value": -250,
+      "player": "Uforyder Fuscarider",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 10,
+        "hour": 23,
+        "minute": 1,
+        "second": 34
+      }
+    },
+    {
+      "id": 1118,
+      "value": 500,
+      "player": "Krisdel Boladao",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 10,
+        "hour": 19,
+        "minute": 9,
+        "second": 34
+      }
+    },
+    {
+      "id": 1117,
+      "value": 3100,
+      "player": "Gus Tinho",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 10,
+        "hour": 3,
+        "minute": 35,
+        "second": 10
+      }
+    },
+    {
+      "id": 1116,
+      "value": 2350,
+      "player": "Incrivel Abra",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 10,
+        "hour": 2,
+        "minute": 57,
+        "second": 54
+      }
+    },
+    {
+      "id": 1115,
+      "value": -300,
+      "player": "Peve Druid",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 9,
+        "hour": 1,
+        "minute": 29,
+        "second": 5
+      }
+    },
+    {
+      "id": 1114,
+      "value": 2075,
+      "player": "Hand Of Arrow",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 9,
+        "hour": 0,
+        "minute": 38,
+        "second": 58
+      }
+    },
+    {
+      "id": 1113,
+      "value": 750,
+      "player": "Wilkerovski",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 8,
+        "hour": 17,
+        "minute": 42,
+        "second": 5
+      }
+    },
+    {
+      "id": 1112,
+      "value": -175,
+      "player": "Ilo Ragast",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 8,
+        "hour": 14,
+        "minute": 25,
+        "second": 36
+      }
+    },
+    {
+      "id": 1111,
+      "value": 625,
+      "player": "Maso Menos",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 8,
+        "hour": 3,
+        "minute": 18,
+        "second": 37
+      }
+    },
+    {
+      "id": 1110,
+      "value": 1300,
+      "player": "Peaso Inabraniano",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 7,
+        "hour": 23,
+        "minute": 44,
+        "second": 25
+      }
+    },
+    {
+      "id": 1109,
+      "value": 325,
+      "player": "Riipzord",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 7,
+        "hour": 22,
+        "minute": 47,
+        "second": 51
+      }
+    },
+    {
+      "id": 1108,
+      "value": -2300,
+      "player": "Wildzy",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 7,
+        "hour": 19,
+        "minute": 1,
+        "second": 11
+      }
+    },
+    {
+      "id": 1107,
+      "value": 1000,
+      "player": "Brandley",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 7,
+        "hour": 18,
+        "minute": 50,
+        "second": 58
+      }
+    },
+    {
+      "id": 1106,
+      "value": 525,
+      "player": "Inffernus",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 7,
+        "hour": 17,
+        "minute": 13,
+        "second": 49
+      }
+    },
+    {
+      "id": 1105,
+      "value": 250,
+      "player": "Riipzord",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 6,
+        "hour": 19,
+        "minute": 58,
+        "second": 13
+      }
+    },
+    {
+      "id": 1104,
+      "value": -100,
+      "player": "Hell Death",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 6,
+        "hour": 15,
+        "minute": 20,
+        "second": 17
+      }
+    },
+    {
+      "id": 1103,
+      "value": -500,
+      "player": "Birinnight",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 6,
+        "hour": 1,
+        "minute": 20,
+        "second": 25
+      }
+    },
+    {
+      "id": 1102,
+      "value": 150,
+      "player": "Wyndcal Mystikall",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 6,
+        "hour": 1,
+        "minute": 14,
+        "second": 45
+      }
+    },
+    {
+      "id": 1101,
+      "value": -250,
+      "player": "Nandoo Azevedo",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 6,
+        "hour": 1,
+        "minute": 13,
+        "second": 3
+      }
+    },
+    {
+      "id": 1100,
+      "value": 250,
+      "player": "Moldeir",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 5,
+        "hour": 19,
+        "minute": 51,
+        "second": 9
+      }
+    },
+    {
+      "id": 1099,
+      "value": -675,
+      "player": "Zydron",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 5,
+        "hour": 16,
+        "minute": 19,
+        "second": 47
+      }
+    },
+    {
+      "id": 1098,
+      "value": -250,
+      "player": "Pirinoia",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 5,
+        "hour": 4,
+        "minute": 43,
+        "second": 14
+      }
+    },
+    {
+      "id": 1097,
+      "value": -100,
+      "player": "Vih Darkwood",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 4,
+        "hour": 22,
+        "minute": 35,
+        "second": 6
+      }
+    },
+    {
+      "id": 1096,
+      "value": -250,
+      "player": "Luirink",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 4,
+        "hour": 19,
+        "minute": 50,
+        "second": 56
+      }
+    },
+    {
+      "id": 1095,
+      "value": 275,
+      "player": "Elite Saulix",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 4,
+        "hour": 18,
+        "minute": 52,
+        "second": 34
+      }
+    },
+    {
+      "id": 1094,
+      "value": -425,
+      "player": "Luirink",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 4,
+        "hour": 0,
+        "minute": 29,
+        "second": 23
+      }
+    },
+    {
+      "id": 1093,
+      "value": -250,
+      "player": "Tavar Nilos",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 3,
+        "hour": 21,
+        "minute": 3,
+        "second": 24
+      }
+    },
+    {
+      "id": 1092,
+      "value": 250,
+      "player": "Sucessopranoz",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 3,
+        "hour": 18,
+        "minute": 12,
+        "second": 12
+      }
+    },
+    {
+      "id": 1091,
+      "value": -1200,
+      "player": "Birinnight",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 3,
+        "hour": 16,
+        "minute": 47,
+        "second": 35
+      }
+    },
+    {
+      "id": 1090,
+      "value": -500,
+      "player": "Lotarmon Will",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 3,
+        "hour": 15,
+        "minute": 28,
+        "second": 53
+      }
+    },
+    {
+      "id": 1089,
+      "value": 500,
+      "player": "Milady Caveira",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 3,
+        "hour": 14,
+        "minute": 34,
+        "second": 28
+      }
+    },
+    {
+      "id": 1088,
+      "value": -800,
+      "player": "Rata Tue",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 3,
+        "hour": 0,
+        "minute": 38,
+        "second": 2
+      }
+    },
+    {
+      "id": 1087,
+      "value": 1250,
+      "player": "Magestic Muris",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 22,
+        "minute": 31,
+        "second": 41
+      }
+    },
+    {
+      "id": 1086,
+      "value": -275,
+      "player": "Rubio Hagrid",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 21,
+        "minute": 56,
+        "second": 53
+      }
+    },
+    {
+      "id": 1085,
+      "value": -250,
+      "player": "Izabel Lira",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 19,
+        "minute": 26,
+        "second": 9
+      }
+    },
+    {
+      "id": 1084,
+      "value": -75,
+      "player": "Vih Darkwood",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 17,
+        "minute": 45,
+        "second": 58
+      }
+    },
+    {
+      "id": 1083,
+      "value": -500,
+      "player": "Bdo'slayer",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 16,
+        "minute": 44,
+        "second": 44
+      }
+    },
+    {
+      "id": 1082,
+      "value": -150,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 4,
+        "minute": 41,
+        "second": 23
+      }
+    },
+    {
+      "id": 1081,
+      "value": -1400,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 2,
+        "minute": 44,
+        "second": 18
+      }
+    },
+    {
+      "id": 1080,
+      "value": -250,
+      "player": "Freya Bluebell",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 2,
+        "hour": 2,
+        "minute": 31,
+        "second": 42
+      }
+    },
+    {
+      "id": 1079,
+      "value": -500,
+      "player": "Smeril",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 19,
+        "minute": 9,
+        "second": 1
+      }
+    },
+    {
+      "id": 1078,
+      "value": -250,
+      "player": "Siccario Di Borgia",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 18,
+        "minute": 21,
+        "second": 28
+      }
+    },
+    {
+      "id": 1077,
+      "value": -250,
+      "player": "Rubens Pitarelli",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 17,
+        "minute": 49,
+        "second": 3
+      }
+    },
+    {
+      "id": 1076,
+      "value": -325,
+      "player": "Kndfermat",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 17,
+        "minute": 43,
+        "second": 19
+      }
+    },
+    {
+      "id": 1075,
+      "value": -100,
+      "player": "Magic Magao",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 16,
+        "minute": 20,
+        "second": 36
+      }
+    },
+    {
+      "id": 1074,
+      "value": -500,
+      "player": "Bolinho De Goma",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 13,
+        "minute": 50,
+        "second": 21
+      }
+    },
+    {
+      "id": 1073,
+      "value": -250,
+      "player": "Drig Do Janga",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 3,
+        "minute": 5,
+        "second": 27
+      }
+    },
+    {
+      "id": 1072,
+      "value": -250,
+      "player": "Ashe Selvagem",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 2,
+        "minute": 23,
+        "second": 56
+      }
+    },
+    {
+      "id": 1071,
+      "value": -175,
+      "player": "Chiver",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 2,
+        "minute": 4,
+        "second": 30
+      }
+    },
+    {
+      "id": 1070,
+      "value": -300,
+      "player": "Knight Marginal",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 0,
+        "minute": 29,
+        "second": 0
+      }
+    },
+    {
+      "id": 1069,
+      "value": -100,
+      "player": "Ancient Tree",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 0,
+        "minute": 23,
+        "second": 24
+      }
+    },
+    {
+      "id": 1068,
+      "value": 100,
+      "player": "Ancient Tree",
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 1,
+        "hour": 0,
+        "minute": 9,
+        "second": 15
+      }
+    },
+    {
+      "id": 1067,
+      "value": -750,
+      "player": "Nekromentis",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 31,
+        "hour": 19,
+        "minute": 32,
+        "second": 39
+      }
+    },
+    {
+      "id": 1066,
+      "value": -500,
+      "player": "Lotarmon Will",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 31,
+        "hour": 18,
+        "minute": 12,
+        "second": 12
+      }
+    },
+    {
+      "id": 1065,
+      "value": 725,
+      "player": "Funerall",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 30,
+        "hour": 20,
+        "minute": 35,
+        "second": 30
+      }
+    },
+    {
+      "id": 1064,
+      "value": 125,
+      "player": "Peaso Inabraniano",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 30,
+        "hour": 19,
+        "minute": 3,
+        "second": 28
+      }
+    },
+    {
+      "id": 1063,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 30,
+        "hour": 6,
+        "minute": 28,
+        "second": 22
+      }
+    },
+    {
+      "id": 1062,
+      "value": -250,
+      "player": "Darlah Artus",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 29,
+        "hour": 0,
+        "minute": 32,
+        "second": 42
+      }
+    },
+    {
+      "id": 1061,
+      "value": -50,
+      "player": "Stars Dribrador",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 28,
+        "hour": 18,
+        "minute": 17,
+        "second": 47
+      }
+    },
+    {
+      "id": 1060,
+      "value": 500,
+      "player": "Pocoyo Ti",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 27,
+        "hour": 21,
+        "minute": 28,
+        "second": 17
+      }
+    },
+    {
+      "id": 1059,
+      "value": -250,
+      "player": "Hell Death",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 27,
+        "hour": 17,
+        "minute": 50,
+        "second": 8
+      }
+    },
+    {
+      "id": 1058,
+      "value": -250,
+      "player": "Tuki Tukiman",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 27,
+        "hour": 17,
+        "minute": 6,
+        "second": 43
+      }
+    },
+    {
+      "id": 1057,
+      "value": 825,
+      "player": "Savinose Versir",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 27,
+        "hour": 2,
+        "minute": 29,
+        "second": 52
+      }
+    },
+    {
+      "id": 1056,
+      "value": -50,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 27,
+        "hour": 0,
+        "minute": 55,
+        "second": 7
+      }
+    },
+    {
+      "id": 1055,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 26,
+        "hour": 22,
+        "minute": 31,
+        "second": 55
+      }
+    },
+    {
+      "id": 1054,
+      "value": -150,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 26,
+        "hour": 15,
+        "minute": 40,
+        "second": 45
+      }
+    },
+    {
+      "id": 1053,
+      "value": -500,
+      "player": "Akee Firestarter",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 26,
+        "hour": 6,
+        "minute": 5,
+        "second": 32
+      }
+    },
+    {
+      "id": 1052,
+      "value": -500,
+      "player": "Gudola Derwyd",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 26,
+        "hour": 0,
+        "minute": 37,
+        "second": 18
+      }
+    },
+    {
+      "id": 1051,
+      "value": 375,
+      "player": "Amorgan",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 26,
+        "hour": 0,
+        "minute": 36,
+        "second": 58
+      }
+    },
+    {
+      "id": 1050,
+      "value": -225,
+      "player": "Magic Magao",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 24,
+        "hour": 19,
+        "minute": 13,
+        "second": 36
+      }
+    },
+    {
+      "id": 1049,
+      "value": -100,
+      "player": "Demmo Demoro",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 24,
+        "hour": 3,
+        "minute": 16,
+        "second": 26
+      }
+    },
+    {
+      "id": 1048,
+      "value": -50,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 23,
+        "hour": 23,
+        "minute": 59,
+        "second": 48
+      }
+    },
+    {
+      "id": 1047,
+      "value": -250,
+      "player": "Kast Awen",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 23,
+        "hour": 20,
+        "minute": 40,
+        "second": 12
+      }
+    },
+    {
+      "id": 1046,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 23,
+        "hour": 16,
+        "minute": 54,
+        "second": 49
+      }
+    },
+    {
+      "id": 1045,
+      "value": -250,
+      "player": "Yusuke Genkai",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 23,
+        "hour": 0,
+        "minute": 34,
+        "second": 18
+      }
+    },
+    {
+      "id": 1044,
+      "value": -250,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 22,
+        "hour": 23,
+        "minute": 58,
+        "second": 28
+      }
+    },
+    {
+      "id": 1043,
+      "value": -500,
+      "player": "Kast Awen",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 22,
+        "hour": 22,
+        "minute": 4,
+        "second": 40
+      }
+    },
+    {
+      "id": 1042,
+      "value": 500,
+      "player": "Elite Saulix",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 22,
+        "hour": 20,
+        "minute": 12,
+        "second": 52
+      }
+    },
+    {
+      "id": 1041,
+      "value": 250,
+      "player": "Wilkerovski",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 22,
+        "hour": 2,
+        "minute": 22,
+        "second": 49
+      }
+    },
+    {
+      "id": 1040,
+      "value": -250,
+      "player": "Ayon Drack",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 21,
+        "hour": 23,
+        "minute": 14,
+        "second": 2
+      }
+    },
+    {
+      "id": 1039,
+      "value": 250,
+      "player": "Riipzord",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 21,
+        "hour": 21,
+        "minute": 43,
+        "second": 6
+      }
+    },
+    {
+      "id": 1038,
+      "value": -250,
+      "player": "Drig Do Janga",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 21,
+        "hour": 21,
+        "minute": 20,
+        "second": 1
+      }
+    },
+    {
+      "id": 1037,
+      "value": -575,
+      "player": "Xauas",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 21,
+        "hour": 16,
+        "minute": 25,
+        "second": 56
+      }
+    },
+    {
+      "id": 1036,
+      "value": -325,
+      "player": "Aniikko",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 21,
+        "hour": 4,
+        "minute": 11,
+        "second": 44
+      }
+    },
+    {
+      "id": 1035,
+      "value": 1000,
+      "player": "Agiota De Streamer",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 20,
+        "hour": 22,
+        "minute": 47,
+        "second": 39
+      }
+    },
+    {
+      "id": 1034,
+      "value": 500,
+      "player": "Daya Malditotanker",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 20,
+        "hour": 15,
+        "minute": 0,
+        "second": 41
+      }
+    },
+    {
+      "id": 1033,
+      "value": -50,
+      "player": "Vih Darkwood",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 19,
+        "hour": 22,
+        "minute": 58,
+        "second": 16
+      }
+    },
+    {
+      "id": 1032,
+      "value": -425,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 19,
+        "hour": 20,
+        "minute": 18,
+        "second": 3
+      }
+    },
+    {
+      "id": 1031,
+      "value": -500,
+      "player": "Pirinoia",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 19,
+        "hour": 18,
+        "minute": 4,
+        "second": 26
+      }
+    },
+    {
+      "id": 1030,
+      "value": 500,
+      "player": "Milady Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 19,
+        "hour": 13,
+        "minute": 8,
+        "second": 56
+      }
+    },
+    {
+      "id": 1029,
+      "value": 2000,
+      "player": "Luquinhasurf Rootss",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 19,
+        "hour": 1,
+        "minute": 34,
+        "second": 42
+      }
+    },
+    {
+      "id": 1028,
+      "value": -275,
+      "player": "Tchin Gatcha",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 23,
+        "minute": 4,
+        "second": 33
+      }
+    },
+    {
+      "id": 1027,
+      "value": 500,
+      "player": "Gasparks",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 22,
+        "minute": 54,
+        "second": 8
+      }
+    },
+    {
+      "id": 1026,
+      "value": -250,
+      "player": "Loost Kniight",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 20,
+        "minute": 30,
+        "second": 34
+      }
+    },
+    {
+      "id": 1025,
+      "value": 250,
+      "player": "Sam Alenda Reattck",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 19,
+        "minute": 4,
+        "second": 6
+      }
+    },
+    {
+      "id": 1024,
+      "value": -100,
+      "player": "Vala Shia",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 17,
+        "minute": 28,
+        "second": 15
+      }
+    },
+    {
+      "id": 1023,
+      "value": 250,
+      "player": "Wilkerovski",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 17,
+        "minute": 6,
+        "second": 19
+      }
+    },
+    {
+      "id": 1022,
+      "value": -25,
+      "player": "Magic Magao",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 16,
+        "minute": 52,
+        "second": 50
+      }
+    },
+    {
+      "id": 1021,
+      "value": -100,
+      "player": "Aniikko",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 2,
+        "minute": 2,
+        "second": 53
+      }
+    },
+    {
+      "id": 1020,
+      "value": 750,
+      "player": "Love Sossa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 18,
+        "hour": 1,
+        "minute": 58,
+        "second": 25
+      }
+    },
+    {
+      "id": 1019,
+      "value": 500,
+      "player": "Eltao Paancadao",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 17,
+        "hour": 23,
+        "minute": 50,
+        "second": 44
+      }
+    },
+    {
+      "id": 1018,
+      "value": -500,
+      "player": "Namoraw",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 17,
+        "hour": 17,
+        "minute": 7,
+        "second": 4
+      }
+    },
+    {
+      "id": 1017,
+      "value": -250,
+      "player": "Gudola Derwyd",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 17,
+        "hour": 15,
+        "minute": 37,
+        "second": 38
+      }
+    },
+    {
+      "id": 1016,
+      "value": 5000,
+      "player": "Rogerz",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 21,
+        "minute": 35,
+        "second": 17
+      }
+    },
+    {
+      "id": 1015,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 21,
+        "minute": 28,
+        "second": 50
+      }
+    },
+    {
+      "id": 1014,
+      "value": -50,
+      "player": "Vini The Druid",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 21,
+        "minute": 20,
+        "second": 55
+      }
+    },
+    {
+      "id": 1013,
+      "value": -50,
+      "player": "Vampire Lotus",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 21,
+        "minute": 7,
+        "second": 52
+      }
+    },
+    {
+      "id": 1012,
+      "value": 75,
+      "player": "Peaso Inabraniano",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 21,
+        "minute": 4,
+        "second": 59
+      }
+    },
+    {
+      "id": 1011,
+      "value": 250,
+      "player": "Peaso Inabraniano",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 20,
+        "minute": 36,
+        "second": 12
+      }
+    },
+    {
+      "id": 1010,
+      "value": -250,
+      "player": "Kyung",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 16,
+        "minute": 45,
+        "second": 23
+      }
+    },
+    {
+      "id": 1009,
+      "value": -250,
+      "player": "Ayon Drack",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 3,
+        "minute": 2,
+        "second": 40
+      }
+    },
+    {
+      "id": 1008,
+      "value": 250,
+      "player": "Meiadura Meiamole",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 1,
+        "minute": 58,
+        "second": 58
+      }
+    },
+    {
+      "id": 1007,
+      "value": -300,
+      "player": "Xauas",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 16,
+        "hour": 1,
+        "minute": 19,
+        "second": 22
+      }
+    },
+    {
+      "id": 1006,
+      "value": 150,
+      "player": "Diniz The Pala",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 15,
+        "hour": 21,
+        "minute": 8,
+        "second": 45
+      }
+    },
+    {
+      "id": 1005,
+      "value": 500,
+      "player": "Periculoso Xamam",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 15,
+        "hour": 20,
+        "minute": 47,
+        "second": 57
+      }
+    },
+    {
+      "id": 1004,
+      "value": -250,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 15,
+        "hour": 1,
+        "minute": 42,
+        "second": 41
+      }
+    },
+    {
+      "id": 1003,
+      "value": -700,
+      "player": "Mister Foster",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 14,
+        "hour": 20,
+        "minute": 57,
+        "second": 5
+      }
+    },
+    {
+      "id": 1002,
+      "value": -275,
+      "player": "Sparki Elevin",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 14,
+        "hour": 20,
+        "minute": 56,
+        "second": 30
+      }
+    },
+    {
+      "id": 1001,
+      "value": 5000,
+      "player": "Zaneru",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 14,
+        "hour": 13,
+        "minute": 3,
+        "second": 9
+      }
+    },
+    {
+      "id": 1000,
+      "value": -2700,
+      "player": "Arqueiro Infernal",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 14,
+        "hour": 3,
+        "minute": 31,
+        "second": 42
+      }
+    },
+    {
+      "id": 999,
+      "value": -250,
+      "player": "Nandoo Azevedo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 14,
+        "hour": 1,
+        "minute": 23,
+        "second": 2
+      }
+    },
+    {
+      "id": 998,
+      "value": 75,
+      "player": "Stars Dribrador",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 13,
+        "hour": 21,
+        "minute": 17,
+        "second": 12
+      }
+    },
+    {
+      "id": 997,
+      "value": -250,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 13,
+        "hour": 5,
+        "minute": 33,
+        "second": 16
+      }
+    },
+    {
+      "id": 996,
+      "value": 250,
+      "player": "Dede Zika",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 12,
+        "hour": 22,
+        "minute": 28,
+        "second": 42
+      }
+    },
+    {
+      "id": 995,
+      "value": -100,
+      "player": "Everhardt",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 12,
+        "hour": 21,
+        "minute": 39,
+        "second": 2
+      }
+    },
+    {
+      "id": 994,
+      "value": -50,
+      "player": "Priorino",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 12,
+        "hour": 2,
+        "minute": 13,
+        "second": 40
+      }
+    },
+    {
+      "id": 993,
+      "value": -275,
+      "player": "Tarseth Litudas",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 12,
+        "hour": 0,
+        "minute": 33,
+        "second": 21
+      }
+    },
+    {
+      "id": 992,
+      "value": -100,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 21,
+        "minute": 29,
+        "second": 5
+      }
+    },
+    {
+      "id": 991,
+      "value": 50,
+      "player": "Stars Dribrador",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 20,
+        "minute": 20,
+        "second": 13
+      }
+    },
+    {
+      "id": 990,
+      "value": 200,
+      "player": "Konde Dukann",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 17,
+        "minute": 16,
+        "second": 30
+      }
+    },
+    {
+      "id": 989,
+      "value": -500,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 17,
+        "minute": 11,
+        "second": 6
+      }
+    },
+    {
+      "id": 988,
+      "value": -250,
+      "player": "Vrknight",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 17,
+        "minute": 0,
+        "second": 47
+      }
+    },
+    {
+      "id": 987,
+      "value": -225,
+      "player": "Cadus Lameswaya",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 7,
+        "minute": 13,
+        "second": 37
+      }
+    },
+    {
+      "id": 986,
+      "value": 750,
+      "player": "Pagon Surin",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 3,
+        "minute": 45,
+        "second": 2
+      }
+    },
+    {
+      "id": 985,
+      "value": 2500,
+      "player": "Kieray",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 11,
+        "hour": 0,
+        "minute": 40,
+        "second": 18
+      }
+    },
+    {
+      "id": 984,
+      "value": -250,
+      "player": "Ayon Drack",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 23,
+        "minute": 17,
+        "second": 27
+      }
+    },
+    {
+      "id": 983,
+      "value": -500,
+      "player": "Alberto Warrior",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 23,
+        "minute": 3,
+        "second": 31
+      }
+    },
+    {
+      "id": 982,
+      "value": -1000,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 21,
+        "minute": 18,
+        "second": 2
+      }
+    },
+    {
+      "id": 981,
+      "value": -250,
+      "player": "Kndfermat",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 19,
+        "minute": 41,
+        "second": 38
+      }
+    },
+    {
+      "id": 980,
+      "value": -75,
+      "player": "Magic Magao",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 18,
+        "minute": 56,
+        "second": 11
+      }
+    },
+    {
+      "id": 979,
+      "value": -750,
+      "player": "Gudola Derwyd",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 15,
+        "minute": 51,
+        "second": 55
+      }
+    },
+    {
+      "id": 978,
+      "value": -350,
+      "player": "Cayke Sio",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 14,
+        "minute": 1,
+        "second": 31
+      }
+    },
+    {
+      "id": 977,
+      "value": -250,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 11,
+        "minute": 59,
+        "second": 13
+      }
+    },
+    {
+      "id": 976,
+      "value": -25,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 4,
+        "minute": 49,
+        "second": 28
+      }
+    },
+    {
+      "id": 975,
+      "value": -250,
+      "player": "Nandoo Azevedo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 3,
+        "minute": 47,
+        "second": 56
+      }
+    },
+    {
+      "id": 974,
+      "value": -250,
+      "player": "Rha Ella",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 3,
+        "minute": 20,
+        "second": 41
+      }
+    },
+    {
+      "id": 973,
+      "value": -150,
+      "player": "Vini The Druid",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 2,
+        "minute": 33,
+        "second": 37
+      }
+    },
+    {
+      "id": 972,
+      "value": -500,
+      "player": "Lotarmon Will",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 10,
+        "hour": 0,
+        "minute": 23,
+        "second": 38
+      }
+    },
+    {
+      "id": 971,
+      "value": 500,
+      "player": "Rubio Hagrid",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 22,
+        "minute": 17,
+        "second": 40
+      }
+    },
+    {
+      "id": 970,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 21,
+        "minute": 28,
+        "second": 35
+      }
+    },
+    {
+      "id": 969,
+      "value": -325,
+      "player": "Hell Death",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 15,
+        "minute": 46,
+        "second": 9
+      }
+    },
+    {
+      "id": 968,
+      "value": 50,
+      "player": "Stars Dribrador",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 15,
+        "minute": 29,
+        "second": 40
+      }
+    },
+    {
+      "id": 967,
+      "value": -75,
+      "player": "Silvershield",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 15,
+        "minute": 21,
+        "second": 50
+      }
+    },
+    {
+      "id": 966,
+      "value": -500,
+      "player": "Alberto Warrior",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 14,
+        "minute": 44,
+        "second": 21
+      }
+    },
+    {
+      "id": 965,
+      "value": -25,
+      "player": "Arctozon Kanthoz",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 7,
+        "minute": 21,
+        "second": 20
+      }
+    },
+    {
+      "id": 964,
+      "value": -250,
+      "player": "Lotarmon Will",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 2,
+        "minute": 10,
+        "second": 22
+      }
+    },
+    {
+      "id": 963,
+      "value": -250,
+      "player": "Surplice De Hypnos",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 9,
+        "hour": 0,
+        "minute": 10,
+        "second": 55
+      }
+    },
+    {
+      "id": 962,
+      "value": -100,
+      "player": "Shi Pegamoeda",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 21,
+        "minute": 24,
+        "second": 39
+      }
+    },
+    {
+      "id": 961,
+      "value": -250,
+      "player": "Nandoo Azevedo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 21,
+        "minute": 15,
+        "second": 21
+      }
+    },
+    {
+      "id": 960,
+      "value": -250,
+      "player": "Lotarmon Will",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 20,
+        "minute": 22,
+        "second": 26
+      }
+    },
+    {
+      "id": 959,
+      "value": -50,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 20,
+        "minute": 20,
+        "second": 11
+      }
+    },
+    {
+      "id": 958,
+      "value": -500,
+      "player": "Arqueiro Infernal",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 16,
+        "minute": 46,
+        "second": 7
+      }
+    },
+    {
+      "id": 957,
+      "value": -25,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 15,
+        "minute": 18,
+        "second": 17
+      }
+    },
+    {
+      "id": 956,
+      "value": -500,
+      "player": "Kachasaa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 14,
+        "minute": 55,
+        "second": 18
+      }
+    },
+    {
+      "id": 955,
+      "value": -500,
+      "player": "Val Mago",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 14,
+        "minute": 4,
+        "second": 28
+      }
+    },
+    {
+      "id": 954,
+      "value": -500,
+      "player": "Queciodsp",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 13,
+        "minute": 7,
+        "second": 6
+      }
+    },
+    {
+      "id": 953,
+      "value": 1000,
+      "player": "Pocoyo Ti",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 3,
+        "minute": 44,
+        "second": 52
+      }
+    },
+    {
+      "id": 952,
+      "value": -50,
+      "player": "Vrknight",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 2,
+        "minute": 47,
+        "second": 38
+      }
+    },
+    {
+      "id": 951,
+      "value": -2000,
+      "player": "Joaovieiramage",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 8,
+        "hour": 0,
+        "minute": 28,
+        "second": 51
+      }
+    },
+    {
+      "id": 950,
+      "value": -1500,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 22,
+        "minute": 38,
+        "second": 48
+      }
+    },
+    {
+      "id": 949,
+      "value": -75,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 21,
+        "minute": 44,
+        "second": 10
+      }
+    },
+    {
+      "id": 948,
+      "value": -525,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 15,
+        "minute": 9,
+        "second": 9
+      }
+    },
+    {
+      "id": 947,
+      "value": -50,
+      "player": "Frozen Tea",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 14,
+        "minute": 59,
+        "second": 17
+      }
+    },
+    {
+      "id": 946,
+      "value": -50,
+      "player": "Curandeiiroo",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 5,
+        "minute": 50,
+        "second": 58
+      }
+    },
+    {
+      "id": 945,
+      "value": -1000,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 3,
+        "minute": 23,
+        "second": 21
+      }
+    },
+    {
+      "id": 944,
+      "value": -250,
+      "player": "Kaka Devilry",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 2,
+        "minute": 1,
+        "second": 59
+      }
+    },
+    {
+      "id": 943,
+      "value": 12375,
+      "player": "Xedran Samphin",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 1,
+        "minute": 43,
+        "second": 10
+      }
+    },
+    {
+      "id": 942,
+      "value": -450,
+      "player": "Thor Okon",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 7,
+        "hour": 1,
+        "minute": 28,
+        "second": 2
+      }
+    },
+    {
+      "id": 941,
+      "value": -300,
+      "player": "Trakon Taka",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 23,
+        "minute": 19,
+        "second": 11
+      }
+    },
+    {
+      "id": 940,
+      "value": -1400,
+      "player": "Sevoflurane",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 22,
+        "minute": 54,
+        "second": 38
+      }
+    },
+    {
+      "id": 939,
+      "value": -250,
+      "player": "Everhardt",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 22,
+        "minute": 16,
+        "second": 3
+      }
+    },
+    {
+      "id": 938,
+      "value": -25,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 17,
+        "minute": 2,
+        "second": 32
+      }
+    },
+    {
+      "id": 937,
+      "value": -525,
+      "player": "Drig Do Janga",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 16,
+        "minute": 55,
+        "second": 9
+      }
+    },
+    {
+      "id": 936,
+      "value": -25,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 3,
+        "minute": 34,
+        "second": 50
+      }
+    },
+    {
+      "id": 935,
+      "value": -50,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 2,
+        "minute": 19,
+        "second": 23
+      }
+    },
+    {
+      "id": 934,
+      "value": 1000,
+      "player": "Magestic Muris",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 2,
+        "minute": 15,
+        "second": 34
+      }
+    },
+    {
+      "id": 933,
+      "value": -1000,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 6,
+        "hour": 1,
+        "minute": 48,
+        "second": 38
+      }
+    },
+    {
+      "id": 932,
+      "value": 575,
+      "player": "Karibohx",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 20,
+        "minute": 36,
+        "second": 50
+      }
+    },
+    {
+      "id": 931,
+      "value": -750,
+      "player": "Pirineuu",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 20,
+        "minute": 26,
+        "second": 27
+      }
+    },
+    {
+      "id": 930,
+      "value": -25,
+      "player": "Zart Cael",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 19,
+        "minute": 47,
+        "second": 7
+      }
+    },
+    {
+      "id": 929,
+      "value": -75,
+      "player": "Zart Cael",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 19,
+        "minute": 14,
+        "second": 13
+      }
+    },
+    {
+      "id": 928,
+      "value": 250,
+      "player": "Noob Boby",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 18,
+        "minute": 46,
+        "second": 5
+      }
+    },
+    {
+      "id": 927,
+      "value": -75,
+      "player": "Tchin Gatcha",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 16,
+        "minute": 37,
+        "second": 44
+      }
+    },
+    {
+      "id": 926,
+      "value": 500,
+      "player": "Major Caveira",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 15,
+        "minute": 10,
+        "second": 43
+      }
+    },
+    {
+      "id": 925,
+      "value": -600,
+      "player": "Gudola Derwyd",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 15,
+        "minute": 8,
+        "second": 10
+      }
+    },
+    {
+      "id": 924,
+      "value": -125,
+      "player": "Darguinha",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 6,
+        "minute": 52,
+        "second": 28
+      }
+    },
+    {
+      "id": 923,
+      "value": -1000,
+      "player": "Smeril",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 2,
+        "minute": 32,
+        "second": 19
+      }
+    },
+    {
+      "id": 922,
+      "value": -300,
+      "player": "Illan Carniel",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 5,
+        "hour": 0,
+        "minute": 38,
+        "second": 39
+      }
+    },
+    {
+      "id": 921,
+      "value": -1375,
+      "player": "Aegon Nogar",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 4,
+        "hour": 23,
+        "minute": 18,
+        "second": 30
+      }
+    },
+    {
+      "id": 920,
+      "value": -75,
+      "player": "Carmilllia",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 4,
+        "hour": 20,
+        "minute": 3,
+        "second": 58
+      }
+    },
+    {
+      "id": 919,
+      "value": -700,
+      "player": "Mister Foster",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 4,
+        "hour": 14,
+        "minute": 23,
+        "second": 54
+      }
+    },
+    {
+      "id": 918,
+      "value": -425,
+      "player": "Zuperious",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 4,
+        "hour": 13,
+        "minute": 49,
+        "second": 38
+      }
+    },
+    {
+      "id": 917,
+      "value": 8000,
+      "player": "Emperium Banker",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 4,
+        "hour": 13,
+        "minute": 30,
+        "second": 42
+      }
+    },
+    {
+      "id": 916,
+      "value": -250,
+      "player": "Valderi",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 23,
+        "minute": 17,
+        "second": 6
+      }
+    },
+    {
+      "id": 915,
+      "value": -250,
+      "player": "Sherav",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 22,
+        "minute": 35,
+        "second": 29
+      }
+    },
+    {
+      "id": 914,
+      "value": -250,
+      "player": "Jalf",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 17,
+        "minute": 22,
+        "second": 37
+      }
+    },
+    {
+      "id": 913,
+      "value": -250,
+      "player": "Max Bradock",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 16,
+        "minute": 24,
+        "second": 49
+      }
+    },
+    {
+      "id": 912,
+      "value": -25,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 5,
+        "minute": 30,
+        "second": 22
+      }
+    },
+    {
+      "id": 911,
+      "value": -1000,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 5,
+        "minute": 19,
+        "second": 3
+      }
+    },
+    {
+      "id": 910,
+      "value": 2625,
+      "player": "Zideia Adra",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 5,
+        "minute": 18,
+        "second": 11
+      }
+    },
+    {
+      "id": 909,
+      "value": -1000,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 3,
+        "minute": 13,
+        "second": 58
+      }
+    },
+    {
+      "id": 908,
+      "value": -250,
+      "player": "Knight Marginal",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 3,
+        "hour": 1,
+        "minute": 22,
+        "second": 34
+      }
+    },
+    {
+      "id": 907,
+      "value": -50,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 2,
+        "hour": 23,
+        "minute": 45,
+        "second": 36
+      }
+    },
+    {
+      "id": 906,
+      "value": 250,
+      "player": "Noob Boby",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 2,
+        "hour": 23,
+        "minute": 23,
+        "second": 50
+      }
+    },
+    {
+      "id": 905,
+      "value": -425,
+      "player": "Mutant",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 2,
+        "hour": 23,
+        "minute": 20,
+        "second": 22
+      }
+    },
+    {
+      "id": 904,
+      "value": -500,
+      "player": "Magic Magao",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 2,
+        "hour": 22,
+        "minute": 49,
+        "second": 22
+      }
+    },
+    {
+      "id": 903,
+      "value": -25,
+      "player": "Princesa Juh",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 2,
+        "hour": 3,
+        "minute": 3,
+        "second": 17
+      }
+    },
+    {
+      "id": 902,
+      "value": -300,
+      "player": "Kattega",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 2,
+        "hour": 2,
+        "minute": 17,
+        "second": 28
+      }
+    },
+    {
+      "id": 901,
+      "value": -1125,
+      "player": "Sevoflurane",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 23,
+        "minute": 11,
+        "second": 26
+      }
+    },
+    {
+      "id": 900,
+      "value": 275,
+      "player": "Alienvs Predador",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 23,
+        "minute": 6,
+        "second": 16
+      }
+    },
+    {
+      "id": 899,
+      "value": -300,
+      "player": "Galdo Khord",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 22,
+        "minute": 21,
+        "second": 25
+      }
+    },
+    {
+      "id": 898,
+      "value": 250,
+      "player": "Amorgan",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 18,
+        "minute": 53,
+        "second": 51
+      }
+    },
+    {
+      "id": 897,
+      "value": 1000,
+      "player": "Lubinakia",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 18,
+        "minute": 9,
+        "second": 4
+      }
+    },
+    {
+      "id": 896,
+      "value": -50,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 17,
+        "minute": 12,
+        "second": 24
+      }
+    },
+    {
+      "id": 895,
+      "value": -525,
+      "player": "Xauas",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 3,
+        "minute": 31,
+        "second": 58
+      }
+    },
+    {
+      "id": 894,
+      "value": -525,
+      "player": "Xauas",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 2,
+        "minute": 8,
+        "second": 31
+      }
+    },
+    {
+      "id": 893,
+      "value": -1000,
+      "player": "Evax Dany",
+      "date": {
+        "year": 2021,
+        "month": 5,
+        "day": 1,
+        "hour": 0,
+        "minute": 17,
+        "second": 22
+      }
+    },
+    {
+      "id": 892,
+      "value": -50,
+      "player": "Arctozon Kanthoz",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 23,
+        "minute": 51,
+        "second": 37
+      }
+    },
+    {
+      "id": 891,
+      "value": -125,
+      "player": "Vini The Druid",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 23,
+        "minute": 46,
+        "second": 5
+      }
+    },
+    {
+      "id": 890,
+      "value": 750,
+      "player": "Yuko Bloodfallen",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 20,
+        "minute": 36,
+        "second": 50
+      }
+    },
+    {
+      "id": 889,
+      "value": -550,
+      "player": "Desuroth",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 19,
+        "minute": 14,
+        "second": 14
+      }
+    },
+    {
+      "id": 888,
+      "value": -500,
+      "player": "Luizszhealer",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 18,
+        "minute": 41,
+        "second": 55
+      }
+    },
+    {
+      "id": 887,
+      "value": -250,
+      "player": "Peetoxy",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 18,
+        "minute": 39,
+        "second": 53
+      }
+    },
+    {
+      "id": 886,
+      "value": -500,
+      "player": "Spanker Evil",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 16,
+        "minute": 30,
+        "second": 13
+      }
+    },
+    {
+      "id": 885,
+      "value": -250,
+      "player": "Tavar Nilos",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 3,
+        "minute": 3,
+        "second": 19
+      }
+    },
+    {
+      "id": 884,
+      "value": -1600,
+      "player": "Tarseth Litudas",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 30,
+        "hour": 0,
+        "minute": 41,
+        "second": 56
+      }
+    },
+    {
+      "id": 883,
+      "value": -25,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 23,
+        "minute": 44,
+        "second": 31
+      }
+    },
+    {
+      "id": 882,
+      "value": -250,
+      "player": "Zuperious",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 20,
+        "minute": 34,
+        "second": 28
+      }
+    },
+    {
+      "id": 881,
+      "value": -250,
+      "player": "Tharin Lokthar",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 17,
+        "minute": 6,
+        "second": 2
+      }
+    },
+    {
+      "id": 880,
+      "value": -250,
+      "player": "Kyltzera",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 13,
+        "minute": 48,
+        "second": 1
+      }
+    },
+    {
+      "id": 879,
+      "value": -250,
+      "player": "Reei Verson",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 4,
+        "minute": 15,
+        "second": 31
+      }
+    },
+    {
+      "id": 878,
+      "value": -275,
+      "player": "Toninho Furacao",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 1,
+        "minute": 55,
+        "second": 30
+      }
+    },
+    {
+      "id": 877,
+      "value": -250,
+      "player": "Ulrackmor",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 29,
+        "hour": 1,
+        "minute": 8,
+        "second": 4
+      }
+    },
+    {
+      "id": 876,
+      "value": -250,
+      "player": "Bardrich",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 23,
+        "minute": 25,
+        "second": 19
+      }
+    },
+    {
+      "id": 875,
+      "value": -50,
+      "player": "Zart Cael",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 23,
+        "minute": 24,
+        "second": 29
+      }
+    },
+    {
+      "id": 874,
+      "value": 6500,
+      "player": "Ken Seven",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 19,
+        "minute": 32,
+        "second": 42
+      }
+    },
+    {
+      "id": 873,
+      "value": -50,
+      "player": "Kaxabrasa",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 17,
+        "minute": 41,
+        "second": 2
+      }
+    },
+    {
+      "id": 872,
+      "value": 250,
+      "player": "Amorgan",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 15,
+        "minute": 12,
+        "second": 18
+      }
+    },
+    {
+      "id": 871,
+      "value": -100,
+      "player": "Frozen Tea",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 14,
+        "minute": 38,
+        "second": 42
+      }
+    },
+    {
+      "id": 870,
+      "value": -250,
+      "player": "Arthemmio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 47,
+        "second": 53
+      }
+    },
+    {
+      "id": 869,
+      "value": -500,
+      "player": "Romeu Alfa Delta",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 4,
+        "minute": 36,
+        "second": 26
+      }
+    },
+    {
+      "id": 868,
+      "value": -1000,
+      "player": "Podolover",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 28,
+        "hour": 3,
+        "minute": 8,
+        "second": 9
+      }
+    },
+    {
+      "id": 867,
+      "value": -1000,
+      "player": "Mutant",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 19,
+        "minute": 13,
+        "second": 35
+      }
+    },
+    {
+      "id": 866,
+      "value": 775,
+      "player": "Vampire Lotus",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 18,
+        "minute": 35,
+        "second": 37
+      }
+    },
+    {
+      "id": 865,
+      "value": 125,
+      "player": "Said Frozenscar",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 17,
+        "minute": 34,
+        "second": 55
+      }
+    },
+    {
+      "id": 864,
+      "value": -300,
+      "player": "Doutor Tobias",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 14,
+        "minute": 48,
+        "second": 47
+      }
+    },
+    {
+      "id": 863,
+      "value": 5000,
+      "player": "Pablo Knight",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 14,
+        "minute": 4,
+        "second": 13
+      }
+    },
+    {
+      "id": 862,
+      "value": -250,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 4,
+        "minute": 11,
+        "second": 11
+      }
+    },
+    {
+      "id": 861,
+      "value": -250,
+      "player": "Billie Joestar",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 3,
+        "minute": 39,
+        "second": 27
+      }
+    },
+    {
+      "id": 860,
+      "value": -1500,
+      "player": "Bolinho De Goma",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 1,
+        "minute": 52,
+        "second": 46
+      }
+    },
+    {
+      "id": 859,
+      "value": 300,
+      "player": "Daya Malditotanker",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 0,
+        "minute": 53,
+        "second": 29
+      }
+    },
+    {
+      "id": 858,
+      "value": 250,
+      "player": "Peaso Inabraniano",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 27,
+        "hour": 0,
+        "minute": 13,
+        "second": 29
+      }
+    },
+    {
+      "id": 857,
+      "value": 250,
+      "player": "Noob Boby",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 23,
+        "minute": 3,
+        "second": 36
+      }
+    },
+    {
+      "id": 856,
+      "value": -1000,
+      "player": "Val Mago",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 20,
+        "minute": 21,
+        "second": 28
+      }
+    },
+    {
+      "id": 855,
+      "value": 1700,
+      "player": "Kim Minnie",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 18,
+        "minute": 32,
+        "second": 16
+      }
+    },
+    {
+      "id": 854,
+      "value": -100,
+      "player": "Valderi",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 14,
+        "minute": 41,
+        "second": 8
+      }
+    },
+    {
+      "id": 853,
+      "value": -500,
+      "player": "Myandra",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 14,
+        "minute": 2,
+        "second": 45
+      }
+    },
+    {
+      "id": 852,
+      "value": -150,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 3,
+        "minute": 42,
+        "second": 42
+      }
+    },
+    {
+      "id": 851,
+      "value": -25,
+      "player": "Princesa Juh",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 3,
+        "minute": 33,
+        "second": 48
+      }
+    },
+    {
+      "id": 850,
+      "value": -500,
+      "player": "Alberto Warrior",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 26,
+        "hour": 0,
+        "minute": 16,
+        "second": 50
+      }
+    },
+    {
+      "id": 849,
+      "value": 50,
+      "player": "Ulrackmor",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 23,
+        "minute": 46,
+        "second": 5
+      }
+    },
+    {
+      "id": 848,
+      "value": -325,
+      "player": "Damon Leon",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 19,
+        "minute": 39,
+        "second": 20
+      }
+    },
+    {
+      "id": 847,
+      "value": 250,
+      "player": "Tristeza Cronica",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 19,
+        "minute": 2,
+        "second": 31
+      }
+    },
+    {
+      "id": 846,
+      "value": -100,
+      "player": "Priorino",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 16,
+        "minute": 15,
+        "second": 7
+      }
+    },
+    {
+      "id": 845,
+      "value": -250,
+      "player": "Descren Mazino",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 15,
+        "minute": 31,
+        "second": 5
+      }
+    },
+    {
+      "id": 844,
+      "value": -150,
+      "player": "Kyung",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 4,
+        "minute": 16,
+        "second": 32
+      }
+    },
+    {
+      "id": 843,
+      "value": -50,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 3,
+        "minute": 36,
+        "second": 5
+      }
+    },
+    {
+      "id": 842,
+      "value": -25,
+      "player": "Cayke Sio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 1,
+        "minute": 3,
+        "second": 49
+      }
+    },
+    {
+      "id": 841,
+      "value": -250,
+      "player": "Padrinhoek",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 25,
+        "hour": 0,
+        "minute": 13,
+        "second": 55
+      }
+    },
+    {
+      "id": 840,
+      "value": 1000,
+      "player": "Pocoyo Ti",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 19,
+        "minute": 36,
+        "second": 23
+      }
+    },
+    {
+      "id": 839,
+      "value": 75,
+      "player": "Sherav",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 18,
+        "minute": 54,
+        "second": 51
+      }
+    },
+    {
+      "id": 838,
+      "value": -750,
+      "player": "Hazzdart",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 18,
+        "minute": 10,
+        "second": 3
+      }
+    },
+    {
+      "id": 837,
+      "value": -125,
+      "player": "Vini The Druid",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 15,
+        "minute": 37,
+        "second": 38
+      }
+    },
+    {
+      "id": 836,
+      "value": -250,
+      "player": "Damon Leon",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 5,
+        "minute": 56,
+        "second": 50
+      }
+    },
+    {
+      "id": 835,
+      "value": -100,
+      "player": "Padrinhoek",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 5,
+        "minute": 44,
+        "second": 46
+      }
+    },
+    {
+      "id": 834,
+      "value": -50,
+      "player": "Vini The Druid",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 3,
+        "minute": 57,
+        "second": 29
+      }
+    },
+    {
+      "id": 833,
+      "value": -250,
+      "player": "Vini The Druid",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 3,
+        "minute": 51,
+        "second": 19
+      }
+    },
+    {
+      "id": 832,
+      "value": -250,
+      "player": "Melinho Do Janga",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 2,
+        "minute": 53,
+        "second": 6
+      }
+    },
+    {
+      "id": 831,
+      "value": 75,
+      "player": "Konde Dukann",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 2,
+        "minute": 2,
+        "second": 27
+      }
+    },
+    {
+      "id": 830,
+      "value": -250,
+      "player": "Doutor Tobias",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 24,
+        "hour": 0,
+        "minute": 2,
+        "second": 46
+      }
+    },
+    {
+      "id": 829,
+      "value": -100,
+      "player": "Goshnars Greed",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 22,
+        "minute": 45,
+        "second": 39
+      }
+    },
+    {
+      "id": 828,
+      "value": -50,
+      "player": "Royal Darga",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 22,
+        "minute": 21,
+        "second": 22
+      }
+    },
+    {
+      "id": 827,
+      "value": -100,
+      "player": "Chiver",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 21,
+        "minute": 54,
+        "second": 51
+      }
+    },
+    {
+      "id": 826,
+      "value": -250,
+      "player": "Peetoxy",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 20,
+        "minute": 14,
+        "second": 35
+      }
+    },
+    {
+      "id": 825,
+      "value": 975,
+      "player": "Sir Wurius",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 18,
+        "minute": 50,
+        "second": 50
+      }
+    },
+    {
+      "id": 824,
+      "value": -600,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 15,
+        "minute": 46,
+        "second": 40
+      }
+    },
+    {
+      "id": 823,
+      "value": -50,
+      "player": "Royal Darga",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 15,
+        "minute": 14,
+        "second": 9
+      }
+    },
+    {
+      "id": 822,
+      "value": -25,
+      "player": "Tarseth Litudas",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 14,
+        "minute": 21,
+        "second": 45
+      }
+    },
+    {
+      "id": 821,
+      "value": 75,
+      "player": "Magrin Dorpado",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 13,
+        "minute": 9,
+        "second": 8
+      }
+    },
+    {
+      "id": 820,
+      "value": -100,
+      "player": "Padrinhoek",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 5,
+        "minute": 14,
+        "second": 44
+      }
+    },
+    {
+      "id": 819,
+      "value": -50,
+      "player": "Smeril",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 4,
+        "minute": 9,
+        "second": 59
+      }
+    },
+    {
+      "id": 818,
+      "value": -100,
+      "player": "Smeril",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 4,
+        "minute": 6,
+        "second": 2
+      }
+    },
+    {
+      "id": 817,
+      "value": -100,
+      "player": "Smeril",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 3,
+        "minute": 56,
+        "second": 27
+      }
+    },
+    {
+      "id": 816,
+      "value": -75,
+      "player": "Padrinhoek",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 2,
+        "minute": 12,
+        "second": 17
+      }
+    },
+    {
+      "id": 815,
+      "value": -50,
+      "player": "Trakon Taka",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 1,
+        "minute": 16,
+        "second": 2
+      }
+    },
+    {
+      "id": 814,
+      "value": -250,
+      "player": "Bdo'slayer",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 23,
+        "hour": 0,
+        "minute": 25,
+        "second": 52
+      }
+    },
+    {
+      "id": 813,
+      "value": -100,
+      "player": "Tchin Gatcha",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 22,
+        "hour": 22,
+        "minute": 16,
+        "second": 47
+      }
+    },
+    {
+      "id": 812,
+      "value": -25,
+      "player": "Cayke Sio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 22,
+        "hour": 18,
+        "minute": 40,
+        "second": 27
+      }
+    },
+    {
+      "id": 811,
+      "value": 150,
+      "player": "Riipzord",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 22,
+        "hour": 18,
+        "minute": 24,
+        "second": 38
+      }
+    },
+    {
+      "id": 810,
+      "value": 1250,
+      "player": "Pocoyo Ti",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 22,
+        "hour": 17,
+        "minute": 50,
+        "second": 19
+      }
+    },
+    {
+      "id": 809,
+      "value": -250,
+      "player": "Urgal",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 22,
+        "hour": 13,
+        "minute": 51,
+        "second": 9
+      }
+    },
+    {
+      "id": 808,
+      "value": -300,
+      "player": "Doutor Tobias",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 22,
+        "hour": 1,
+        "minute": 16,
+        "second": 15
+      }
+    },
+    {
+      "id": 807,
+      "value": -300,
+      "player": "Regis Brabo",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 23,
+        "minute": 55,
+        "second": 34
+      }
+    },
+    {
+      "id": 806,
+      "value": -250,
+      "player": "Drig Do Janga",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 19,
+        "minute": 7,
+        "second": 29
+      }
+    },
+    {
+      "id": 805,
+      "value": -300,
+      "player": "Palamix",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 18,
+        "minute": 13,
+        "second": 19
+      }
+    },
+    {
+      "id": 804,
+      "value": -250,
+      "player": "Urgal",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 16,
+        "minute": 20,
+        "second": 32
+      }
+    },
+    {
+      "id": 803,
+      "value": -250,
+      "player": "Nyhasa",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 15,
+        "minute": 55,
+        "second": 26
+      }
+    },
+    {
+      "id": 802,
+      "value": -25,
+      "player": "Cayke Sio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 14,
+        "minute": 52,
+        "second": 56
+      }
+    },
+    {
+      "id": 801,
+      "value": -25,
+      "player": "Magick Warrior",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 14,
+        "minute": 49,
+        "second": 27
+      }
+    },
+    {
+      "id": 800,
+      "value": -25,
+      "player": "Arctozon Kanthoz",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 6,
+        "minute": 50,
+        "second": 6
+      }
+    },
+    {
+      "id": 799,
+      "value": -25,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 5,
+        "minute": 23,
+        "second": 32
+      }
+    },
+    {
+      "id": 798,
+      "value": -250,
+      "player": "Dininho",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 3,
+        "minute": 56,
+        "second": 24
+      }
+    },
+    {
+      "id": 797,
+      "value": 250,
+      "player": "Daya Malditotanker",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 3,
+        "minute": 50,
+        "second": 27
+      }
+    },
+    {
+      "id": 796,
+      "value": 1675,
+      "player": "Amorgan",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 21,
+        "hour": 1,
+        "minute": 53,
+        "second": 33
+      }
+    },
+    {
+      "id": 795,
+      "value": 250,
+      "player": "Said Frozenscar",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 21,
+        "minute": 45,
+        "second": 47
+      }
+    },
+    {
+      "id": 794,
+      "value": -50,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 19,
+        "minute": 55,
+        "second": 52
+      }
+    },
+    {
+      "id": 793,
+      "value": -250,
+      "player": "Alixzia Elen",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 19,
+        "minute": 18,
+        "second": 50
+      }
+    },
+    {
+      "id": 792,
+      "value": -250,
+      "player": "Shurai",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 18,
+        "minute": 34,
+        "second": 42
+      }
+    },
+    {
+      "id": 791,
+      "value": -25,
+      "player": "Cayke Sio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 17,
+        "minute": 38,
+        "second": 35
+      }
+    },
+    {
+      "id": 790,
+      "value": -250,
+      "player": "Rafa Horn",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 16,
+        "minute": 53,
+        "second": 56
+      }
+    },
+    {
+      "id": 789,
+      "value": -1500,
+      "player": "Tornaddo",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 16,
+        "minute": 1,
+        "second": 2
+      }
+    },
+    {
+      "id": 788,
+      "value": 1250,
+      "player": "Strumkun Funsulunkun Dumkun",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 4,
+        "minute": 54,
+        "second": 7
+      }
+    },
+    {
+      "id": 787,
+      "value": -250,
+      "player": "Zemerson",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 4,
+        "minute": 11,
+        "second": 38
+      }
+    },
+    {
+      "id": 786,
+      "value": -1375,
+      "player": "Loud Luxury",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 1,
+        "minute": 46,
+        "second": 21
+      }
+    },
+    {
+      "id": 785,
+      "value": 1000,
+      "player": "Eltao Brown",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 1,
+        "minute": 17,
+        "second": 53
+      }
+    },
+    {
+      "id": 784,
+      "value": 50,
+      "player": "Ulrackmor",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 20,
+        "hour": 1,
+        "minute": 12,
+        "second": 6
+      }
+    },
+    {
+      "id": 783,
+      "value": -150,
+      "player": "Ronald Biggs",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 23,
+        "minute": 29,
+        "second": 51
+      }
+    },
+    {
+      "id": 782,
+      "value": -125,
+      "player": "Silvershield",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 23,
+        "minute": 15,
+        "second": 20
+      }
+    },
+    {
+      "id": 781,
+      "value": -1750,
+      "player": "Tarseth Litudas",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 19,
+        "minute": 59,
+        "second": 9
+      }
+    },
+    {
+      "id": 780,
+      "value": 2000,
+      "player": "Tristeza Cronica",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 17,
+        "minute": 50,
+        "second": 36
+      }
+    },
+    {
+      "id": 779,
+      "value": 250,
+      "player": "Noob Boby",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 15,
+        "minute": 36,
+        "second": 27
+      }
+    },
+    {
+      "id": 778,
+      "value": -1000,
+      "player": "Mystic Hawk",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 3,
+        "minute": 50,
+        "second": 10
+      }
+    },
+    {
+      "id": 777,
+      "value": 5000,
+      "player": "Emperium Banker",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 3,
+        "minute": 42,
+        "second": 42
+      }
+    },
+    {
+      "id": 776,
+      "value": -6500,
+      "player": "Darkzerax",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 2,
+        "minute": 24,
+        "second": 12
+      }
+    },
+    {
+      "id": 775,
+      "value": 2000,
+      "player": "Interfacex",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 2,
+        "minute": 22,
+        "second": 5
+      }
+    },
+    {
+      "id": 774,
+      "value": -125,
+      "player": "Revel Rookstayer",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 0,
+        "minute": 50,
+        "second": 44
+      }
+    },
+    {
+      "id": 773,
+      "value": -50,
+      "player": "Kevuto",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 19,
+        "hour": 0,
+        "minute": 14,
+        "second": 3
+      }
+    },
+    {
+      "id": 772,
+      "value": -275,
+      "player": "Priorino",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 23,
+        "minute": 36,
+        "second": 11
+      }
+    },
+    {
+      "id": 771,
+      "value": -25,
+      "player": "Audacio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 22,
+        "minute": 2,
+        "second": 9
+      }
+    },
+    {
+      "id": 770,
+      "value": -25,
+      "player": "Mace Destroyer",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 21,
+        "minute": 55,
+        "second": 38
+      }
+    },
+    {
+      "id": 769,
+      "value": 2000,
+      "player": "Sumo Anti Skeletin",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 19,
+        "minute": 52,
+        "second": 12
+      }
+    },
+    {
+      "id": 768,
+      "value": -1000,
+      "player": "Audacio",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 19,
+        "minute": 39,
+        "second": 35
+      }
+    },
+    {
+      "id": 767,
+      "value": 2250,
+      "player": "Sumo Anti Skeletin",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 19,
+        "minute": 3,
+        "second": 53
+      }
+    },
+    {
+      "id": 766,
+      "value": -250,
+      "player": "Ignus On Durgs",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 18,
+        "minute": 7,
+        "second": 3
+      }
+    },
+    {
+      "id": 765,
+      "value": 500,
+      "player": "Delson Of Cassi",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 17,
+        "minute": 2,
+        "second": 30
+      }
+    },
+    {
+      "id": 764,
+      "value": -125,
+      "player": "Sherav",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 16,
+        "minute": 39,
+        "second": 17
+      }
+    },
+    {
+      "id": 763,
+      "value": -275,
+      "player": "Mister Foster",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 15,
+        "minute": 58,
+        "second": 8
+      }
+    },
+    {
+      "id": 762,
+      "value": -25,
+      "player": "Arctozon Kanthoz",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 8,
+        "minute": 24,
+        "second": 47
+      }
+    },
+    {
+      "id": 761,
+      "value": -125,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 4,
+        "minute": 36,
+        "second": 54
+      }
+    },
+    {
+      "id": 760,
+      "value": -50,
+      "player": "Kelvylima",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 4,
+        "minute": 23,
+        "second": 42
+      }
+    },
+    {
+      "id": 759,
+      "value": -250,
+      "player": "Guardian Verde",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 18,
+        "hour": 3,
+        "minute": 50,
+        "second": 44
+      }
+    },
+    {
+      "id": 758,
+      "value": -750,
+      "player": "Loud Luxury",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 20,
+        "minute": 8,
+        "second": 26
+      }
+    },
+    {
+      "id": 757,
+      "value": 2750,
+      "player": "Funkeira Levada",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 17,
+        "minute": 46,
+        "second": 15
+      }
+    },
+    {
+      "id": 756,
+      "value": -1525,
+      "player": "Loud Luxury",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 15,
+        "minute": 23,
+        "second": 59
+      }
+    },
+    {
+      "id": 755,
+      "value": -50,
+      "player": "Arctozon Kanthoz",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 7,
+        "minute": 27,
+        "second": 21
+      }
+    },
+    {
+      "id": 754,
+      "value": -250,
+      "player": "Smeril",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 2,
+        "minute": 4,
+        "second": 51
+      }
+    },
+    {
+      "id": 753,
+      "value": -6000,
+      "player": "Elosk",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 1,
+        "minute": 30,
+        "second": 39
+      }
+    },
+    {
+      "id": 752,
+      "value": 6000,
+      "player": "Pablo Knight",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 17,
+        "hour": 1,
+        "minute": 26,
+        "second": 53
+      }
+    },
+    {
+      "id": 751,
+      "value": -25,
+      "player": "Mace Destroyer",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 23,
+        "minute": 47,
+        "second": 9
+      }
+    },
+    {
+      "id": 750,
+      "value": -50,
+      "player": "Hell Death",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 23,
+        "minute": 22,
+        "second": 17
+      }
+    },
+    {
+      "id": 749,
+      "value": -425,
+      "player": "Tarseth Litudas",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 23,
+        "minute": 21,
+        "second": 56
+      }
+    },
+    {
+      "id": 748,
+      "value": 800,
+      "player": "Fih Di Vo",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 22,
+        "minute": 36,
+        "second": 40
+      }
+    },
+    {
+      "id": 747,
+      "value": -1250,
+      "player": "Mutant",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 22,
+        "minute": 14,
+        "second": 8
+      }
+    },
+    {
+      "id": 746,
+      "value": 250,
+      "player": "Brandley",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 22,
+        "minute": 12,
+        "second": 39
+      }
+    },
+    {
+      "id": 745,
+      "value": -100,
+      "player": "Goshnars Greed",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 21,
+        "minute": 34,
+        "second": 58
+      }
+    },
+    {
+      "id": 744,
+      "value": -5000,
+      "player": "Alberto Warrior",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 21,
+        "minute": 23,
+        "second": 42
+      }
+    },
+    {
+      "id": 743,
+      "value": 6000,
+      "player": "Leozinx Taca Pedra",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 20,
+        "minute": 51,
+        "second": 43
+      }
+    },
+    {
+      "id": 742,
+      "value": -50,
+      "player": "Ronald Biggs",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 20,
+        "minute": 21,
+        "second": 14
+      }
+    },
+    {
+      "id": 741,
+      "value": -250,
+      "player": "Kerito",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 20,
+        "minute": 6,
+        "second": 37
+      }
+    },
+    {
+      "id": 740,
+      "value": -500,
+      "player": "Arthorico Neymish",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 19,
+        "minute": 54,
+        "second": 1
+      }
+    },
+    {
+      "id": 739,
+      "value": -2300,
+      "player": "Loud Luxury",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 18,
+        "minute": 49,
+        "second": 30
+      }
+    },
+    {
+      "id": 738,
+      "value": -250,
+      "player": "Ko Pedrin",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 17,
+        "minute": 54,
+        "second": 1
+      }
+    },
+    {
+      "id": 737,
+      "value": 1000,
+      "player": "Bolalaranja",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 17,
+        "minute": 49,
+        "second": 34
+      }
+    },
+    {
+      "id": 736,
+      "value": 1225,
+      "player": "Black Labyrinth",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 1,
+        "minute": 47,
+        "second": 46
+      }
+    },
+    {
+      "id": 735,
+      "value": -250,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 1,
+        "minute": 15,
+        "second": 0
+      }
+    },
+    {
+      "id": 734,
+      "value": -250,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 1,
+        "minute": 11,
+        "second": 19
+      }
+    },
+    {
+      "id": 733,
+      "value": -250,
+      "player": "Donlet",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 16,
+        "hour": 1,
+        "minute": 8,
+        "second": 2
+      }
+    },
+    {
+      "id": 732,
+      "value": -11500,
+      "player": "Xedran Samphin",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 15,
+        "hour": 23,
+        "minute": 27,
+        "second": 17
+      }
+    },
+    {
+      "id": 731,
+      "value": 10000,
+      "player": "Pablo Knight",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 15,
+        "hour": 23,
+        "minute": 25,
+        "second": 56
+      }
+    },
+    {
+      "id": 730,
+      "value": 5000,
+      "player": "Pablo Knight",
+      "date": {
+        "year": 2021,
+        "month": 4,
+        "day": 15,
+        "hour": 22,
+        "minute": 29,
+        "second": 9
+      }
+    },
+    {
       "id": 729,
       "value": -300,
       "player": "Pandaaah",

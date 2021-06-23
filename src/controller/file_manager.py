@@ -7,10 +7,10 @@ from src.model.transaction.transaction import Transaction
 
 class FileManager:
     __metaclass__ = ABC
-    __transactions_path = '../data/transactions_b.json'
+    __transactions_path = '../data/transactions_a.json'
 
     @staticmethod
-    def get_cookies():
+    def get_cookies() -> dict:
         with open('../data/secure_session_id.txt') as arq:
             return {
                 'SecureSessionID': arq.readline()
